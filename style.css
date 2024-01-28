@@ -770,3 +770,12 @@ p span{
     border-radius: 15px;
     text-decoration: none;
 }
+
+footer{
+    text-align: center;
+    font-weight: bold;
+    -webkit-animation: bgcolor 10s infinite;
+    animation: bgcolor 10s infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
