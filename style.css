@@ -779,3 +779,23 @@ footer{
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
 }
+
+
+
+#python,#html,#css,#mysql,#pandas{
+    background:
+    radial-gradient(closest-side, #151515 79%, transparent 80% 100%),
+    conic-gradient(#007206 85%, #151515 0);
+}
+
+#java,#dsa{
+    background:
+    radial-gradient(closest-side, #151515 79%, transparent 80% 100%),
+    conic-gradient(#00c20a 60%, #151515 0);
+}
+
+#javascript,#reactjs,#ml,#cv{
+    background:
+    radial-gradient(closest-side, #151515 79%, transparent 80% 100%),
+    conic-gradient(#ffdd02 30%, #151515 0);
+}
